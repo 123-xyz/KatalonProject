@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>implementing variable concept</description>
+   <name>test1</name>
+   <tag>variable</tag>
+   <comment></comment>
+   <testCaseGuid>9988b93c-dd75-4c44-a194-3adf4fdb19d5</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>da18c08d-9077-4e7b-864f-a26d69493b37</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>efa33745-a42c-42cf-96ba-c6dbcf6e69d0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>5b3d5aeb-5f26-4b98-992b-7d4758c97d2f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

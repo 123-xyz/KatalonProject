@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite001,,,2018-07-25 11:59:48,2018-07-25 11:59:49,0.929s,FAILED
+,,,,,,
+Test Cases/day2/test1,,implementing variable concept,2018-07-25 11:59:48,2018-07-25 11:59:49,0.589s,FAILED
+navigateToUrl,,,2018-07-25 11:59:49,2018-07-25 11:59:49,0.306s,FAILED

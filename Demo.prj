@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>first katalon project on login</description>
+   <name>Demo</name>
+   <tag></tag>
+   <UUID>b5e03daf-08ef-4923-b5e6-53de6b8bd184</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

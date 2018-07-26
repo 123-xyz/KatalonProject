@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Testsuite1,,,2018-07-25 11:02:38,2018-07-25 11:02:39,0.574s,PASSED
+,,,,,,
+Test Cases/day2/test1,,implementing variable concept,2018-07-25 11:02:39,2018-07-25 11:02:39,0.272s,PASSED
+Statement - return null,,,2018-07-25 11:02:39,2018-07-25 11:02:39,0.001s,PASSED

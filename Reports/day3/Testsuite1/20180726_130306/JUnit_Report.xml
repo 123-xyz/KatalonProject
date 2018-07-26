@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Testsuite1" time="0" tests="0" failures="0" errors="0">
+   <testsuite name="Testsuite1" tests="0" failures="0" errors="0" time="0" timestamp="2018-07-26 13:03:07" hostname="slk - WSLK1FFTRFW-05" id="Test Suites/day3/Testsuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-05\\Katalon Studio\\Demo\\Reports\\day3\\Testsuite1\\20180726_130306"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-05\\Katalon Studio\\Demo\\Reports\\day3\\Testsuite1\\20180726_130306\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-05"/>
+         <property name="hostAddress" value="10.10.10.14"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+      </properties>
+      <system-out><![CDATA[2018-07-26 13:03:07 - [TEST_SUITE][PASSED] - Testsuite1: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

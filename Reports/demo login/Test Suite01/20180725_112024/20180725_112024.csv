@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite01,Firefox 57.0,,2018-07-25 11:21:01,2018-07-25 11:21:29,27.842s,ERROR
+,,,,,,
+Test Cases/Demo(login)/test1,Firefox 57.0,,2018-07-25 11:21:02,2018-07-25 11:21:29,27.268s,ERROR
+openBrowser,Firefox 57.0,,2018-07-25 11:21:02,2018-07-25 11:21:29,26.963s,PASSED
+navigateToUrl,Firefox 57.0,,2018-07-25 11:21:29,2018-07-25 11:21:29,0.002s,PASSED
